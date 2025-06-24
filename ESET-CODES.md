@@ -1,4 +1,22 @@
 #
+## Generated On: Tuesday, 24 June 2025, 23:56 IRN
+
+> [!WARNING]
+>
+> - Triggered by: **schedule**
+> - Time-Sensitive Codes
+> - Expire in 24 hours
+> - Single-device binding
+> - No reactivation permitted <br><br/>
+
+<br/>
+
+Everything you need to know about ESET. [^1]
+Need more VPN access codes? [^2]
+
+<br/>
+
+#
 ## Generated On: Tuesday, 24 June 2025, 20:00 IRN
 
 > [!WARNING]
@@ -149,6 +167,7 @@ Need more VPN access codes? [^2]
 
 Everything you need to know about ESET. [^1]
 Need more VPN access codes? [^2]
+<br/>
 <br/>
 <br/>
 <br/>
