@@ -1,7 +1,7 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Wed, 20 Aug 2025 00:56:21 GMT*
-*Total working proxies found: 54*
+*Last updated on: Thu, 21 Aug 2025 00:55:44 GMT*
+*Total working proxies found: 55*
 
 | Proxy IP | Location | ISP / Organization |
 |----------|----------|--------------------|
@@ -42,9 +42,9 @@
 | `213.255.209.207` | Toronto, Canada | AS54913 Kamatera, Inc. |
 | `216.10.243.159` | Mumbai, India | AS394695 PDR |
 | `23.94.5.177` | Buffalo, United States | AS36352 HostPapa |
-| `23.95.113.61` | Ashburn, United States | AS36352 HostPapa |
 | `34.175.202.195` | Madrid, Spain | AS396982 Google LLC |
 | `38.180.11.201` | Dubai, United Arab Emirates | AS9009 M247 Europe SRL |
+| `45.42.214.153` | Secaucus, United States | AS212477 RoyaleHosting BV |
 | `45.79.168.17` | Cedar Knolls, United States | AS63949 Akamai Connected Cloud |
 | `46.17.107.183` | New York, United States | AS204154 FIRST SERVER LIMITED |
 | `50.19.193.95` | Ashburn, United States | AS14618 Amazon.com, Inc. |
@@ -56,6 +56,7 @@
 | `81.22.132.183` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
 | `81.22.132.3` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
 | `82.115.5.199` | Amsterdam, Netherlands | AS42532 SIA VEESP |
+| `89.42.142.12` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
 | `89.42.142.79` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
 | `89.42.142.96` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
 | `91.90.194.87` | Dronten, The Netherlands | AS21100 GREEN FLOID LLC |
