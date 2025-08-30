@@ -1,7 +1,7 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Fri, 29 Aug 2025 00:55:08 GMT*
-*Total working proxies found: 53*
+*Last updated on: Sat, 30 Aug 2025 00:52:42 GMT*
+*Total working proxies found: 52*
 
 | Proxy IP | Location | ISP / Organization |
 |----------|----------|--------------------|
@@ -48,7 +48,6 @@
 | `91.184.242.63` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
 | `91.197.0.63` | Riga, Latvia | AS42532 SIA VEESP |
 | `91.208.162.68` | Amsterdam, The Netherlands | AS200019 ALEXHOST SRL |
-| `91.217.76.64` | Helsinki, Finland | AS200740 FIRST SERVER LIMITED |
 | `93.183.124.129` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
 | `93.183.124.199` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
 | `93.183.69.31` | Amsterdam, The Netherlands | AS43581 ZTV CORP LLC |
