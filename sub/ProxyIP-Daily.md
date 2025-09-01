@@ -1,7 +1,7 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Sun, 31 Aug 2025 00:59:21 GMT*
-*Total working proxies found: 53*
+*Last updated on: Mon, 01 Sep 2025 01:05:22 GMT*
+*Total working proxies found: 52*
 
 | Proxy IP | Location | ISP / Organization |
 |----------|----------|--------------------|
@@ -56,5 +56,4 @@
 | `91.239.148.133` | Gdansk, Poland | AS199058 SERVA ONE LTD |
 | `94.142.139.93` | Moscow, Russia | AS209641 I-SERVERS LTD |
 | `94.158.219.198` | Riga, Latvia | AS42532 SIA VEESP |
-| `94.177.8.62` | Wien, Austria | AS40994 Hohl IT e.U. |
 | `95.216.140.177` | Helsinki, Finland | AS24940 Hetzner Online GmbH |
