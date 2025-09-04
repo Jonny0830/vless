@@ -1,6 +1,6 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Wed, 03 Sep 2025 00:52:51 GMT*
+*Last updated on: Thu, 04 Sep 2025 00:53:03 GMT*
 *Total working proxies found: 50*
 
 | Proxy IP | Location | ISP / Organization |
