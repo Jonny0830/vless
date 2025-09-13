@@ -1,62 +1,59 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Fri, 12 Sep 2025 00:52:47 GMT*
-*Total working proxies found: 55*
+*Last updated on: Sat, 13 Sep 2025 00:50:11 GMT*
+*Total working proxies found: 52*
 
 | Proxy IP | Location | ISP / Organization |
 |----------|----------|--------------------|
-| `103.13.208.242` | London, United Kingdom | AS210329 Kamatera Inc |
-| `109.107.167.104` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `109.120.187.39` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
-| `146.190.236.144` | Amsterdam, The Netherlands | AS14061 DigitalOcean, LLC |
-| `147.45.77.214` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
-| `159.100.199.200` | Amsterdam, The Netherlands | AS11179 Aryaka Networks, Inc. |
-| `167.235.57.61` | Nuremberg, Germany | AS24940 Hetzner Online GmbH |
-| `176.124.220.175` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
-| `178.159.38.148` | Meppel, The Netherlands | AS204601 Zomro B.V. |
-| `178.236.244.16` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
-| `18.192.93.64` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `185.103.255.196` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.186.246.210` | Amsterdam, The Netherlands | AS35415 Webzilla B.V. |
-| `185.229.225.229` | Amsterdam, Netherlands | AS41436 Kamatera Inc |
-| `185.233.203.134` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.238.169.177` | Meppel, The Netherlands | AS58061 Scalaxy B.V. |
-| `185.68.93.39` | Sofia, Bulgaria | AS56577 Relink LTD |
-| `192.236.249.102` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `192.236.249.106` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `192.236.249.91` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `192.236.249.98` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `193.122.58.158` | Frankfurt am Main, Germany | AS31898 Oracle Corporation |
-| `193.160.96.234` | Amsterdam, The Netherlands | AS56611 REBA Communications BV |
-| `194.146.123.241` | London, United Kingdom | AS212552 BitCommand LLC |
-| `194.147.33.13` | Dronten, Netherlands | AS41745 Baykov Ilya Sergeevich |
-| `195.133.79.154` | Amsterdam, The Netherlands | AS216475 NKtelecom INC |
-| `195.200.26.225` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `195.58.50.233` | Dronten, Netherlands | AS41745 Baykov Ilya Sergeevich |
-| `212.34.153.121` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `213.183.61.191` | Amsterdam, The Netherlands | AS56630 Melbikomas UAB |
-| `3.75.170.179` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `35.247.124.181` | The Dalles, United States | AS396982 Google LLC |
-| `37.252.5.75` | Tallinn, Estonia | AS34702 Aktsiaselts WaveCom |
-| `45.147.199.13` | Dronten, The Netherlands | AS204601 Zomro B.V. |
-| `45.147.228.249` | Frankfurt am Main, Germany | AS30823 aurologic GmbH |
-| `45.43.89.159` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `46.226.164.47` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
-| `46.226.165.169` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
-| `46.226.165.244` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
-| `5.2.75.70` | Amsterdam, The Netherlands | AS60404 The Infrastructure Group B.V. |
-| `5.35.69.122` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `62.84.98.178` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `77.238.242.88` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `79.132.139.52` | Rotterdam, The Netherlands | AS16003 Fornex Hosting S.L. |
-| `79.137.194.255` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
-| `89.110.117.195` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `89.110.120.197` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `89.110.120.29` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `89.110.121.20` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `89.169.54.138` | Frankfurt Am Main, Germany | AS210644 AEZA INTERNATIONAL LTD |
-| `89.28.236.243` | Nørre Åby, Denmark | AS44803 Webdock.io ApS |
-| `91.108.241.188` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
-| `94.131.122.72` | Coventry, United Kingdom | AS44477 PQ HOSTING PLUS S.R.L. |
-| `94.177.8.23` | Wien, Austria | AS40994 Hohl IT e.U. |
-| `94.177.8.40` | Wien, Austria | AS40994 Hohl IT e.U. |
+| `103.35.188.123` | Secaucus, United States | AS44477 PQ HOSTING PLUS S.R.L. |
+| `104.168.58.31` | Buffalo, United States | AS36352 HostPapa |
+| `107.172.159.182` | Marietta, United States | AS36352 HostPapa |
+| `107.172.43.162` | Buffalo, United States | AS36352 HostPapa |
+| `107.172.90.21` | Buffalo, United States | AS36352 HostPapa |
+| `107.173.251.119` | Buffalo, United States | AS36352 HostPapa |
+| `107.174.63.237` | Buffalo, United States | AS36352 HostPapa |
+| `107.175.158.215` | Buffalo, United States | AS36352 HostPapa |
+| `107.175.183.62` | Marietta, United States | AS36352 HostPapa |
+| `107.175.35.49` | Buffalo, United States | AS36352 HostPapa |
+| `139.60.162.153` | New York, United States | AS395839 HOSTKEY |
+| `140.238.158.238` | Toronto, Canada | AS31898 Oracle Corporation |
+| `163.5.207.235` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `163.5.207.31` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `170.205.38.77` | Los Angeles, United States | AS63473 HostHatch, LLC |
+| `172.245.111.20` | Buffalo, United States | AS36352 HostPapa |
+| `172.245.226.156` | Dallas, United States | AS36352 HostPapa |
+| `172.98.207.58` | Mississauga, Canada | AS14453 ADVANCED KNOWLEDGE NETWORKS |
+| `18.207.186.154` | Ashburn, United States | AS14618 Amazon.com, Inc. |
+| `192.3.155.217` | Buffalo, United States | AS36352 HostPapa |
+| `192.3.45.148` | Buffalo, United States | AS36352 HostPapa |
+| `193.32.177.79` | Secaucus, United States | AS41745 Baykov Ilya Sergeevich |
+| `198.46.143.134` | Buffalo, United States | AS36352 HostPapa |
+| `2.59.183.198` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.25` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.26` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.42` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.77` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `20.121.115.188` | Boydton, United States | AS8075 Microsoft Corporation |
+| `20.246.127.166` | Boydton, United States | AS8075 Microsoft Corporation |
+| `209.200.246.130` | Toronto, Canada | AS215311 Regxa Company for Information Technology Ltd |
+| `213.255.209.207` | Toronto, Canada | AS54913 Kamatera, Inc. |
+| `216.10.243.159` | Mumbai, India | AS394695 PDR |
+| `23.94.5.177` | Buffalo, United States | AS36352 HostPapa |
+| `23.95.113.61` | Ashburn, United States | AS36352 HostPapa |
+| `34.175.202.195` | Madrid, Spain | AS396982 Google LLC |
+| `38.180.11.201` | Dubai, United Arab Emirates | AS9009 M247 Europe SRL |
+| `45.42.214.153` | Secaucus, United States | AS212477 RoyaleHosting BV |
+| `45.79.168.17` | Cedar Knolls, United States | AS63949 Akamai Connected Cloud |
+| `46.17.107.183` | New York, United States | AS204154 FIRST SERVER LIMITED |
+| `50.19.193.95` | Ashburn, United States | AS14618 Amazon.com, Inc. |
+| `50.228.203.26` | Davie, United States | AS7922 Comcast Cable Communications, LLC |
+| `64.176.210.187` | Piscataway, United States | AS20473 The Constant Company, LLC |
+| `66.85.139.204` | Phoenix, United States | AS20454 SECURED SERVERS LLC |
+| `67.226.220.10` | Ashburn, United States | AS14618 Amazon.com, Inc. |
+| `67.226.222.2` | Columbus, United States | AS16509 Amazon.com, Inc. |
+| `81.22.132.183` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `81.22.132.3` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `82.115.5.199` | Amsterdam, Netherlands | AS42532 SIA VEESP |
+| `89.42.142.12` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `89.42.142.79` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `91.90.194.87` | Dronten, The Netherlands | AS21100 GREEN FLOID LLC |
