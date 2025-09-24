@@ -1,60 +1,61 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Tue, 23 Sep 2025 00:53:50 GMT*
-*Total working proxies found: 53*
+*Last updated on: Wed, 24 Sep 2025 00:54:35 GMT*
+*Total working proxies found: 54*
 
 | Proxy IP | Location | ISP / Organization |
 |----------|----------|--------------------|
-| `103.82.101.179` | Paris, France | AS56630 Melbikomas UAB |
-| `104.128.190.65` | Coventry, United Kingdom | AS42831 UK Dedicated Servers Limited |
-| `135.125.4.40` | Strasbourg, France | AS16276 OVH SAS |
-| `142.93.229.101` | Amsterdam, The Netherlands | AS14061 DigitalOcean, LLC |
-| `146.0.79.50` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `147.45.173.149` | Amsterdam, The Netherlands | AS210976 Timeweb, LLP |
-| `159.69.92.30` | Nuremberg, Germany | AS24940 Hetzner Online GmbH |
-| `165.227.134.63` | Frankfurt am Main, Germany | AS14061 DigitalOcean, LLC |
-| `176.222.54.31` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `176.222.55.163` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `18.156.209.101` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `18.184.55.249` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `18.185.254.189` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `18.196.70.197` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `185.233.203.106` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.246.152.79` | Amsterdam, The Netherlands | AS56630 Melbikomas UAB |
-| `185.247.118.7` | Frankfurt, Germany | AS204548 Kamatera Inc |
-| `185.94.164.107` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.94.165.183` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.94.165.93` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `192.236.249.108` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `192.236.249.97` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `192.248.177.3` | Frankfurt am Main, Germany | AS20473 The Constant Company, LLC |
-| `206.166.251.92` | Amsterdam, The Netherlands | AS399629 BL Networks |
-| `212.111.89.16` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `212.193.1.100` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
-| `212.193.1.208` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
-| `213.183.51.219` | Amsterdam, The Netherlands | AS56630 Melbikomas UAB |
-| `23.108.217.103` | Amsterdam, The Netherlands | AS7979 Servers.com, Inc. |
-| `31.172.72.83` | Frankfurt am Main, Germany | AS44051 Fornex Hosting S.L. |
-| `31.44.2.57` | Amsterdam, The Netherlands | AS208951 ITGLOBAL.COM |
-| `37.1.202.160` | Amsterdam, The Netherlands | AS58061 Scalaxy B.V. |
-| `45.133.118.153` | Amsterdam, Netherlands | AS210429 Hizakura B.V. |
-| `45.143.167.213` | Amsterdam, Netherlands | AS62005 BlueVPS OU |
-| `45.76.82.192` | Frankfurt am Main, Germany | AS20473 The Constant Company, LLC |
-| `5.180.182.128` | Amsterdam, Netherlands | AS41436 Kamatera Inc |
-| `5.35.69.209` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `66.151.42.239` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `77.238.236.106` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `77.238.248.115` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `77.246.108.130` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `77.83.175.59` | Oude Meer, The Netherlands | AS211381 Podaon SIA |
-| `80.76.34.13` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `80.76.34.190` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `89.110.126.196` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `89.110.79.248` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `91.149.238.88` | London, United Kingdom | AS26383 Baxet Group Inc. |
-| `92.119.90.51` | Frankfurt am Main, Germany | AS56630 Melbikomas UAB |
-| `93.113.171.95` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
-| `93.114.133.159` | Maidenhead, United Kingdom | AS202448 MVPS LTD |
-| `93.127.223.41` | Frankfurt am Main, Germany | AS46475 Limestone Networks, Inc. |
-| `94.23.163.46` | Saarbrücken, Germany | AS16276 OVH SAS |
-| `95.164.37.32` | Coventry, United Kingdom | AS44477 PQ HOSTING PLUS S.R.L. |
+| `103.35.188.123` | Secaucus, United States | AS44477 PQ HOSTING PLUS S.R.L. |
+| `104.168.58.31` | Buffalo, United States | AS36352 HostPapa |
+| `107.172.159.182` | Marietta, United States | AS36352 HostPapa |
+| `107.172.43.162` | Buffalo, United States | AS36352 HostPapa |
+| `107.172.90.21` | Buffalo, United States | AS36352 HostPapa |
+| `107.173.251.119` | Buffalo, United States | AS36352 HostPapa |
+| `107.174.63.237` | Buffalo, United States | AS36352 HostPapa |
+| `107.175.158.215` | Buffalo, United States | AS36352 HostPapa |
+| `107.175.183.62` | Marietta, United States | AS36352 HostPapa |
+| `107.175.35.49` | Buffalo, United States | AS36352 HostPapa |
+| `139.60.162.153` | New York, United States | AS395839 HOSTKEY |
+| `140.238.158.238` | Toronto, Canada | AS31898 Oracle Corporation |
+| `163.5.207.235` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `163.5.207.31` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `170.205.38.77` | Los Angeles, United States | AS63473 HostHatch, LLC |
+| `172.245.111.20` | Buffalo, United States | AS36352 HostPapa |
+| `172.245.226.156` | Dallas, United States | AS36352 HostPapa |
+| `172.98.207.58` | Hampton, Canada | AS14453 ADVANCED KNOWLEDGE NETWORKS |
+| `18.207.186.154` | Ashburn, United States | AS14618 Amazon.com, Inc. |
+| `185.198.166.182` | Dronten, The Netherlands | AS21100 GREEN FLOID LLC |
+| `192.3.155.217` | Buffalo, United States | AS36352 HostPapa |
+| `192.3.45.148` | Buffalo, United States | AS36352 HostPapa |
+| `193.32.177.79` | Secaucus, United States | AS41745 Baykov Ilya Sergeevich |
+| `198.46.143.134` | Buffalo, United States | AS36352 HostPapa |
+| `2.59.183.198` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.25` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.26` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.42` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `2.59.183.77` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `20.121.115.188` | Boydton, United States | AS8075 Microsoft Corporation |
+| `20.246.127.166` | Boydton, United States | AS8075 Microsoft Corporation |
+| `209.200.246.130` | Toronto, Canada | AS215311 Regxa Company for Information Technology Ltd |
+| `213.255.209.207` | Toronto, Canada | AS54913 Kamatera, Inc. |
+| `216.10.243.159` | Mumbai, India | AS394695 PDR |
+| `23.94.5.177` | Buffalo, United States | AS36352 HostPapa |
+| `23.95.113.61` | Ashburn, United States | AS36352 HostPapa |
+| `34.175.202.195` | Madrid, Spain | AS396982 Google LLC |
+| `38.180.11.201` | Dubai, United Arab Emirates | AS9009 M247 Europe SRL |
+| `45.42.214.153` | Secaucus, United States | AS212477 RoyaleHosting BV |
+| `45.79.168.17` | Cedar Knolls, United States | AS63949 Akamai Connected Cloud |
+| `46.17.107.183` | New York, United States | AS204154 FIRST SERVER LIMITED |
+| `50.19.193.95` | Ashburn, United States | AS14618 Amazon.com, Inc. |
+| `50.228.203.26` | Davie, United States | AS7922 Comcast Cable Communications, LLC |
+| `64.176.210.187` | Piscataway, United States | AS20473 The Constant Company, LLC |
+| `66.85.139.204` | Phoenix, United States | AS20454 SECURED SERVERS LLC |
+| `67.226.220.10` | Ashburn, United States | AS14618 Amazon.com, Inc. |
+| `67.226.222.2` | Columbus, United States | AS16509 Amazon.com, Inc. |
+| `81.22.132.183` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `81.22.132.3` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `82.115.5.199` | Amsterdam, Netherlands | AS42532 SIA VEESP |
+| `89.42.142.12` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `89.42.142.79` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `89.42.142.96` | Meppel, The Netherlands | AS199058 SERVA ONE LTD |
+| `91.90.194.87` | Dronten, The Netherlands | AS21100 GREEN FLOID LLC |
