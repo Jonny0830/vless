@@ -1,56 +1,62 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Sat, 04 Oct 2025 00:50:41 GMT*
-*Total working proxies found: 49*
+*Last updated on: Sun, 05 Oct 2025 00:59:13 GMT*
+*Total working proxies found: 55*
 
 | Proxy IP | Location | ISP / Organization |
 |----------|----------|--------------------|
-| `104.248.145.216` | Singapore, Singapore | AS14061 DigitalOcean, LLC |
-| `13.230.34.30` | Tokyo, Japan | AS16509 Amazon.com, Inc. |
-| `13.250.14.76` | Singapore, Singapore | AS16509 Amazon.com, Inc. |
-| `139.185.34.131` | Dubai, United Arab Emirates | AS31898 Oracle Corporation |
-| `141.147.147.180` | Osaka, Japan | AS31898 Oracle Corporation |
-| `143.42.66.91` | Singapore, Singapore | AS63949 Akamai Connected Cloud |
-| `149.28.21.106` | Minamishinagawa, Japan | AS20473 The Constant Company, LLC |
-| `156.230.12.71` | Tseung Kwan O, Hong Kong | AS142132 263 Global Communications Limited |
-| `164.52.2.100` | Singapore, Singapore | AS63199 CDS Global Cloud Co., Ltd |
-| `164.52.2.98` | Singapore, Singapore | AS63199 CDS Global Cloud Co., Ltd |
-| `164.52.2.99` | Singapore, Singapore | AS63199 CDS Global Cloud Co., Ltd |
-| `168.138.165.174` | Singapore, Singapore | AS31898 Oracle Corporation |
-| `168.138.46.67` | Osaka, Japan | AS31898 Oracle Corporation |
-| `170.64.240.100` | Sydney, Australia | AS14061 DigitalOcean, LLC |
-| `172.236.30.225` | London, United Kingdom | AS63949 Akamai Connected Cloud |
-| `178.128.80.43` | Singapore, Singapore | AS14061 DigitalOcean, LLC |
-| `178.130.42.242` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `18.159.105.97` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `18.183.158.211` | Tokyo, Japan | AS16509 Amazon.com, Inc. |
-| `185.246.155.73` | Amsterdam, The Netherlands | AS56630 Melbikomas UAB |
-| `192.243.127.224` | Osaka, Japan | AS25820 IT7 Networks Inc |
-| `192.9.180.162` | Sydney, Australia | AS31898 Oracle Corporation |
-| `193.123.81.105` | Dubai, United Arab Emirates | AS31898 Oracle Corporation |
-| `194.156.99.186` | Chai Wan, Hong Kong | AS44477 PQ HOSTING PLUS S.R.L. |
-| `194.58.33.103` | Frankfurt am Main, Germany | AS216127 INTERNATIONAL HOSTING COMPANY LIMITED |
-| `194.58.68.145` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
-| `195.200.19.96` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `199.59.231.120` | Foster City, United States | AS11179 Aryaka Networks, Inc. |
-| `20.235.105.146` | Pune, India | AS8075 Microsoft Corporation |
-| `206.201.196.122` | Sydney, Australia | AS11179 Aryaka Networks, Inc. |
-| `212.83.138.31` | Paris, France | AS12876 SCALEWAY S.A.S. |
-| `213.35.107.73` | Singapore, Singapore | AS31898 Oracle Corporation |
-| `217.142.236.93` | Osaka, Japan | AS31898 Oracle Corporation |
-| `3.112.21.102` | Tokyo, Japan | AS16509 Amazon.com, Inc. |
-| `43.156.116.194` | Singapore, Singapore | AS132203 Tencent Building, Kejizhongyi Avenue |
-| `43.156.181.203` | Singapore, Singapore | AS132203 Tencent Building, Kejizhongyi Avenue |
-| `43.218.77.16` | Jakarta, Indonesia | AS16509 Amazon.com, Inc. |
-| `45.76.198.248` | Minamishinagawa, Japan | AS20473 The Constant Company, LLC |
-| `45.77.236.204` | Sydney, Australia | AS20473 The Constant Company, LLC |
-| `45.86.228.104` | Fujairah, United Arab Emirates | AS62005 BlueVPS OU |
-| `47.76.218.163` | Hong Kong, Hong Kong | AS45102 Alibaba (US) Technology Co., Ltd. |
-| `51.15.210.1` | Paris, France | AS12876 SCALEWAY S.A.S. |
-| `51.254.6.14` | Roubaix, France | AS16276 OVH SAS |
-| `52.141.25.42` | Seoul, South Korea | AS8075 Microsoft Corporation |
-| `64.110.104.30` | Osaka, Japan | AS31898 Oracle Corporation |
-| `65.20.82.22` | Mumbai, India | AS20473 The Constant Company, LLC |
-| `77.223.215.167` | Frankfurt am Main, Germany | AS46475 Limestone Networks, Inc. |
-| `77.238.242.168` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `80.76.35.73` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
+| `109.120.158.198` | Dronten, The Netherlands | AS214798 Digital City FZE |
+| `109.169.76.23` | Maidenhead, United Kingdom | AS20860 IOMART CLOUD SERVICES LIMITED |
+| `142.132.178.99` | Falkenstein, Germany | AS24940 Hetzner Online GmbH |
+| `146.0.73.202` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
+| `147.45.41.209` | Vienna, Austria | AS210644 AEZA INTERNATIONAL LTD |
+| `159.100.198.106` | Dubai, United Arab Emirates | AS11179 Aryaka Networks, Inc. |
+| `159.223.236.56` | Amsterdam, The Netherlands | AS14061 DigitalOcean, LLC |
+| `162.55.217.158` | Nuremberg, Germany | AS24940 Hetzner Online GmbH |
+| `165.232.123.155` | Frankfurt am Main, Germany | AS14061 DigitalOcean, LLC |
+| `185.126.225.58` | Amsterdam, The Netherlands | AS212238 Datacamp Limited |
+| `185.224.248.120` | Frankfurt am Main, Germany | AS56630 Melbikomas UAB |
+| `192.236.249.101` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
+| `192.236.249.104` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
+| `193.176.153.197` | Paris, France | AS56971 AS56971 Cloud |
+| `193.233.233.148` | Vienna, Austria | AS210644 AEZA INTERNATIONAL LTD |
+| `194.164.32.32` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `194.87.18.92` | Geneva, Switzerland | AS26383 Baxet Group Inc. |
+| `194.87.54.121` | Frankfurt am Main, Germany | AS216127 INTERNATIONAL HOSTING COMPANY LIMITED |
+| `195.133.64.185` | Frankfurt am Main, Germany | AS199785 Cloud Hosting Solutions, Limited. |
+| `212.111.82.92` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `212.192.215.7` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
+| `212.34.153.65` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `217.144.189.127` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
+| `34.253.234.62` | Dublin, Ireland | AS16509 Amazon.com, Inc. |
+| `37.27.91.126` | Helsinki, Finland | AS24940 Hetzner Online GmbH |
+| `45.144.49.146` | Warsaw, Poland | AS49791 Newserverlife LLC |
+| `45.85.93.49` | Geneva, Switzerland | AS199058 SERVA ONE LTD |
+| `5.255.118.176` | Dronten, The Netherlands | AS60404 The Infrastructure Group B.V. |
+| `5.35.70.38` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `5.35.70.49` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `5.61.39.183` | Frankfurt am Main, Germany | AS28753 Leaseweb Deutschland GmbH |
+| `64.227.114.71` | Frankfurt am Main, Germany | AS14061 DigitalOcean, LLC |
+| `65.108.245.196` | Helsinki, Finland | AS24940 Hetzner Online GmbH |
+| `66.151.41.250` | Frankfurt am Main, Germany | AS57043 HOSTKEY B.V. |
+| `77.221.157.32` | Frankfurt am Main, Germany | AS210644 AEZA INTERNATIONAL LTD |
+| `77.91.77.167` | Frankfurt am Main, Germany | AS211522 Hypercore Ltd |
+| `78.46.233.187` | Nuremberg, Germany | AS24940 Hetzner Online GmbH |
+| `79.133.46.166` | Frankfurt am Main, Germany | AS214036 Ultahost, Inc. |
+| `79.137.195.157` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
+| `79.137.199.166` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
+| `79.137.205.127` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
+| `80.85.246.245` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `85.192.29.4` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
+| `88.218.76.170` | Strasbourg, France | AS29066 velia.net Internetdienste GmbH |
+| `89.110.116.163` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.110.121.190` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.110.121.61` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.110.127.203` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.110.80.120` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `91.184.242.138` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
+| `94.131.12.56` | Bern, Switzerland | AS44477 PQ HOSTING PLUS S.R.L. |
+| `94.177.8.34` | Wien, Austria | AS40994 Hohl IT e.U. |
+| `94.177.8.50` | Wien, Austria | AS40994 Hohl IT e.U. |
+| `94.177.8.9` | Wien, Austria | AS40994 Hohl IT e.U. |
+| `95.164.23.71` | Budapest, Hungary | AS209847 WorkTitans B.V. |
