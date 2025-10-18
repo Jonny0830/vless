@@ -1,60 +1,56 @@
 ## Active proxies (Port 443)
 
-*Last updated on: Fri, 17 Oct 2025 00:55:28 GMT*
-*Total working proxies found: 53*
+*Last updated on: Sat, 18 Oct 2025 00:52:30 GMT*
+*Total working proxies found: 49*
 
 | Proxy IP | Location | ISP / Organization |
 |----------|----------|--------------------|
-| `103.82.101.179` | Paris, France | AS56630 Melbikomas UAB |
-| `104.128.190.65` | Coventry, United Kingdom | AS42831 UK Dedicated Servers Limited |
-| `135.125.4.40` | Strasbourg, France | AS16276 OVH SAS |
-| `142.93.229.101` | Amsterdam, The Netherlands | AS14061 DigitalOcean, LLC |
-| `146.0.79.50` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `147.45.173.149` | Amsterdam, The Netherlands | AS210976 Timeweb, LLP |
-| `159.69.92.30` | Nuremberg, Germany | AS24940 Hetzner Online GmbH |
-| `164.90.228.172` | Frankfurt am Main, Germany | AS14061 DigitalOcean, LLC |
-| `165.227.134.63` | Frankfurt am Main, Germany | AS14061 DigitalOcean, LLC |
-| `176.222.54.31` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `176.222.55.163` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `18.156.209.101` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `18.184.55.249` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `18.185.254.189` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `18.196.70.197` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
-| `185.233.203.106` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.246.152.79` | Amsterdam, The Netherlands | AS56630 Melbikomas UAB |
-| `185.247.118.7` | Frankfurt, Germany | AS204548 Kamatera Inc |
-| `185.94.164.107` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.94.165.183` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `185.94.165.93` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `192.236.249.108` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `192.236.249.97` | Amsterdam, The Netherlands | AS54290 Hostwinds LLC. |
-| `192.248.177.3` | Frankfurt am Main, Germany | AS20473 The Constant Company, LLC |
-| `206.166.251.92` | Amsterdam, The Netherlands | AS399629 BL Networks |
-| `212.111.89.16` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `212.193.1.100` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
-| `212.193.1.208` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
-| `213.183.51.219` | Amsterdam, The Netherlands | AS56630 Melbikomas UAB |
-| `23.108.217.103` | Amsterdam, The Netherlands | AS7979 Servers.com, Inc. |
-| `31.172.72.83` | Frankfurt am Main, Germany | AS44051 Fornex Hosting S.L. |
-| `31.44.2.57` | Amsterdam, The Netherlands | AS208951 ITGLOBAL.COM |
-| `37.1.202.160` | Amsterdam, The Netherlands | AS58061 Scalaxy B.V. |
-| `45.133.118.153` | Amsterdam, Netherlands | AS210429 Hizakura B.V. |
-| `45.143.167.213` | Amsterdam, Netherlands | AS62005 BlueVPS OU |
-| `45.76.82.192` | Frankfurt am Main, Germany | AS20473 The Constant Company, LLC |
-| `5.180.182.128` | Amsterdam, Netherlands | AS41436 Kamatera Inc |
-| `5.35.69.209` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `66.151.42.239` | Amsterdam, The Netherlands | AS57043 HOSTKEY B.V. |
-| `77.238.236.106` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `77.246.108.130` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `77.83.175.59` | Oude Meer, The Netherlands | AS211381 Podaon SIA |
-| `80.76.34.13` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `80.76.34.190` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
-| `89.110.126.196` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `89.110.79.248` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
-| `91.149.238.88` | London, United Kingdom | AS26383 Baxet Group Inc. |
-| `92.119.90.51` | Frankfurt am Main, Germany | AS56630 Melbikomas UAB |
-| `93.113.171.95` | Amsterdam, The Netherlands | AS26383 Baxet Group Inc. |
-| `93.114.133.159` | Maidenhead, United Kingdom | AS202448 MVPS LTD |
-| `93.127.223.41` | Frankfurt am Main, Germany | AS46475 Limestone Networks, Inc. |
-| `94.23.163.46` | Saarbrücken, Germany | AS16276 OVH SAS |
-| `95.164.37.32` | Coventry, United Kingdom | AS44477 PQ HOSTING PLUS S.R.L. |
+| `103.13.208.242` | London, United Kingdom | AS210329 Kamatera Inc |
+| `109.107.167.104` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `109.120.187.39` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
+| `146.190.236.144` | Amsterdam, The Netherlands | AS14061 DigitalOcean, LLC |
+| `147.45.77.214` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
+| `159.100.199.200` | Amsterdam, The Netherlands | AS11179 Aryaka Networks, Inc. |
+| `167.235.57.61` | Nuremberg, Germany | AS24940 Hetzner Online GmbH |
+| `176.124.220.175` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
+| `178.159.38.148` | Meppel, The Netherlands | AS204601 Zomro B.V. |
+| `178.236.244.16` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
+| `18.192.93.64` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
+| `185.103.255.196` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
+| `185.186.246.210` | Amsterdam, The Netherlands | AS35415 Webzilla B.V. |
+| `185.229.225.229` | Amsterdam, Netherlands | AS41436 Kamatera Inc |
+| `185.233.203.134` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
+| `185.238.169.177` | Meppel, The Netherlands | AS58061 Scalaxy B.V. |
+| `185.68.93.39` | Sofia, Bulgaria | AS56577 Relink LTD |
+| `193.160.96.234` | Amsterdam, The Netherlands | AS56611 REBA Communications BV |
+| `194.146.123.241` | London, United Kingdom | AS212552 BitCommand LLC |
+| `194.147.33.13` | Dronten, Netherlands | AS41745 Baykov Ilya Sergeevich |
+| `195.133.79.154` | Amsterdam, The Netherlands | AS216475 NKtelecom INC |
+| `195.200.26.225` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `195.58.50.233` | Dronten, Netherlands | AS41745 Baykov Ilya Sergeevich |
+| `213.183.61.191` | Amsterdam, The Netherlands | AS56630 Melbikomas UAB |
+| `3.75.170.179` | Frankfurt am Main, Germany | AS16509 Amazon.com, Inc. |
+| `35.247.124.181` | The Dalles, United States | AS396982 Google LLC |
+| `37.252.5.75` | Tallinn, Estonia | AS34702 Aktsiaselts WaveCom |
+| `45.147.199.13` | Dronten, The Netherlands | AS204601 Zomro B.V. |
+| `45.147.228.249` | Frankfurt am Main, Germany | AS30823 aurologic GmbH |
+| `45.43.89.159` | Amsterdam, The Netherlands | AS200740 FIRST SERVER LIMITED |
+| `46.226.164.47` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
+| `46.226.165.169` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
+| `46.226.165.244` | Stockholm, Sweden | AS210644 AEZA INTERNATIONAL LTD |
+| `5.2.75.70` | Amsterdam, The Netherlands | AS60404 The Infrastructure Group B.V. |
+| `5.35.69.122` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `62.84.98.178` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `77.238.242.88` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `79.132.139.52` | Rotterdam, The Netherlands | AS16003 Fornex Hosting S.L. |
+| `79.137.194.255` | Amsterdam, The Netherlands | AS210644 AEZA INTERNATIONAL LTD |
+| `89.110.117.195` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.110.120.197` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.110.120.29` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.110.121.20` | Amsterdam, The Netherlands | AS216071 SERVERS TECH FZCO |
+| `89.169.54.138` | Frankfurt Am Main, Germany | AS210644 AEZA INTERNATIONAL LTD |
+| `89.28.236.243` | Nørre Åby, Denmark | AS44803 Webdock.io ApS |
+| `91.108.241.188` | Helsinki, Finland | AS210644 AEZA INTERNATIONAL LTD |
+| `94.131.122.72` | Bramshall, United Kingdom | AS44477 PQ HOSTING PLUS S.R.L. |
+| `94.177.8.23` | Wien, Austria | AS40994 Hohl IT e.U. |
+| `94.177.8.40` | Wien, Austria | AS40994 Hohl IT e.U. |
